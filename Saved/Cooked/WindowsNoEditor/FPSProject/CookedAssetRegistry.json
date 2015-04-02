@@ -1,0 +1,3092 @@
+{
+	"Packages": [
+		{
+			"SourcePackageName": "/Engine/EditorResources/S_Actor",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorResources/S_Actor.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorResources/S_Actor.S_Actor",
+					"PackageName": "/Engine/EditorResources/S_Actor",
+					"PackagePath": "/Engine/EditorResources",
+					"GroupNames": "None",
+					"AssetName": "S_Actor",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "128x128",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_EditorIcon",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorLandscapeResources/DataLayer",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorLandscapeResources/DataLayer.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorLandscapeResources/DataLayer.DataLayer",
+					"PackageName": "/Engine/EditorLandscapeResources/DataLayer",
+					"PackagePath": "/Engine/EditorLandscapeResources",
+					"GroupNames": "None",
+					"AssetName": "DataLayer",
+					"AssetClass": "LandscapeLayerInfoObject",
+					"TagsAndValues":
+					{
+						"LayerName": "DataLayer__"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/Maps/Templates/Thumbnails/Default",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/Maps/Templates/Thumbnails/Default.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/Maps/Templates/Thumbnails/Default.Default",
+					"PackageName": "/Engine/Maps/Templates/Thumbnails/Default",
+					"PackagePath": "/Engine/Maps/Templates/Thumbnails",
+					"GroupNames": "None",
+					"AssetName": "Default",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "200x200",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "True",
+						"CompressionSettings": "TC_EditorIcon",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.PSysThumbnail_NoImage",
+					"PackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+					"PackagePath": "/Engine/EditorMaterials/ParticleSystems",
+					"GroupNames": "None",
+					"AssetName": "PSysThumbnail_NoImage",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "256x256",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.PSysThumbnail_OOD",
+					"PackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
+					"PackagePath": "/Engine/EditorMaterials/ParticleSystems",
+					"GroupNames": "None",
+					"AssetName": "PSysThumbnail_OOD",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "128x128",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental.DmgTypeBP_Environmental",
+					"PackageName": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
+					"PackagePath": "/Engine/EngineDamageTypes",
+					"GroupNames": "None",
+					"AssetName": "DmgTypeBP_Environmental",
+					"AssetClass": "Blueprint",
+					"TagsAndValues":
+					{
+						"ParentClass": "Class'/Script/Engine.DamageType'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "BlueprintGeneratedClass'/Engine/EngineDamageTypes/DmgTypeBP_Environmental.DmgTypeBP_Environmental_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/Engine",
+						"BlueprintDescription": "",
+						"ClassFlags": "4522000",
+						"IsDataOnly": "True"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMeshes/Sphere",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMeshes/Sphere.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMeshes/Sphere.Sphere",
+					"PackageName": "/Engine/EngineMeshes/Sphere",
+					"PackagePath": "/Engine/EngineMeshes",
+					"GroupNames": "None",
+					"AssetName": "Sphere",
+					"AssetClass": "StaticMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "528",
+						"Vertices": "461",
+						"UVChannels": "1",
+						"Materials": "1",
+						"ApproxSize": "320x320x320",
+						"CollisionPrims": "1",
+						"ResourceSize": "37.86"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineFonts/RobotoDistanceField",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField",
+					"PackageName": "/Engine/EngineFonts/RobotoDistanceField",
+					"PackagePath": "/Engine/EngineFonts",
+					"GroupNames": "None",
+					"AssetName": "RobotoDistanceField",
+					"AssetClass": "Font",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultTextMaterialOpaque.DefaultTextMaterialOpaque",
+					"PackageName": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultTextMaterialOpaque",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Masked",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.PowerToRoughness",
+					"PackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
+					"PackagePath": "/Engine/Functions/Engine_MaterialFunctions01/Shading",
+					"GroupNames": "None",
+					"AssetName": "PowerToRoughness",
+					"AssetClass": "MaterialFunction",
+					"TagsAndValues":
+					{
+						"Description": "",
+						"bExposeToLibrary": "False",
+						"LibraryCategories": "(\"Misc\")",
+						"CombinedInputTypes": "15",
+						"CombinedOutputTypes": "15"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec",
+					"PackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
+					"PackagePath": "/Engine/Functions/Engine_MaterialFunctions01/Shading",
+					"GroupNames": "None",
+					"AssetName": "ConvertFromDiffSpec",
+					"AssetClass": "MaterialFunction",
+					"TagsAndValues":
+					{
+						"Description": "",
+						"bExposeToLibrary": "False",
+						"LibraryCategories": "(\"Misc\")",
+						"CombinedInputTypes": "4",
+						"CombinedOutputTypes": "15"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/WorldGridMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial",
+					"PackageName": "/Engine/EngineMaterials/WorldGridMaterial",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "WorldGridMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade",
+					"PackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
+					"PackagePath": "/Engine/Functions/Engine_MaterialFunctions01/Opacity",
+					"GroupNames": "None",
+					"AssetName": "CameraDepthFade",
+					"AssetClass": "MaterialFunction",
+					"TagsAndValues":
+					{
+						"Description": "Creates a gradient of 0 near the camera to white at Fade Length. Useful for preventing particles from camera clipping.0",
+						"bExposeToLibrary": "True",
+						"LibraryCategories": "(\"Misc\")",
+						"CombinedInputTypes": "79",
+						"CombinedOutputTypes": "15"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M",
+					"PackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "T_Default_Material_Grid_M",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "512x512",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N",
+					"PackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "T_Default_Material_Grid_N",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "256x256",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Normalmap",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial",
+					"PackageName": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultDeferredDecalMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_DeferredDecal",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultDiffuse",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse",
+					"PackageName": "/Engine/EngineMaterials/DefaultDiffuse",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultDiffuse",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "1024x1024",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultLightFunctionMaterial.DefaultLightFunctionMaterial",
+					"PackageName": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultLightFunctionMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_LightFunction",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultPostProcessMaterial.DefaultPostProcessMaterial",
+					"PackageName": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultPostProcessMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_PostProcess",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components",
+					"PackageName": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
+					"PackagePath": "/Engine/Functions/Engine_MaterialFunctions02/Utility",
+					"GroupNames": "None",
+					"AssetName": "BreakOutFloat2Components",
+					"AssetClass": "MaterialFunction",
+					"TagsAndValues":
+					{
+						"Description": "Enter a float 2 vector into the function and retrieve individual channels back through the scalar outputs.",
+						"bExposeToLibrary": "True",
+						"LibraryCategories": "(\"Misc\")",
+						"CombinedInputTypes": "2",
+						"CombinedOutputTypes": "15"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorResources/S_Trigger",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorResources/S_Trigger.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorResources/S_Trigger.S_Trigger",
+					"PackageName": "/Engine/EditorResources/S_Trigger",
+					"PackagePath": "/Engine/EditorResources",
+					"GroupNames": "None",
+					"AssetName": "S_Trigger",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "256x256",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_EditorIcon",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineResources/WhiteSquareTexture",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineResources/WhiteSquareTexture.WhiteSquareTexture",
+					"PackageName": "/Engine/EngineResources/WhiteSquareTexture",
+					"PackagePath": "/Engine/EngineResources",
+					"GroupNames": "None",
+					"AssetName": "WhiteSquareTexture",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "32x32",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineResources/GradientTexture0",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/GradientTexture0.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineResources/GradientTexture0.GradientTexture0",
+					"PackageName": "/Engine/EngineResources/GradientTexture0",
+					"PackagePath": "/Engine/EngineResources",
+					"GroupNames": "None",
+					"AssetName": "GradientTexture0",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "32x32",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_EditorIcon",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineResources/Black",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/Black.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineResources/Black.Black",
+					"PackageName": "/Engine/EngineResources/Black",
+					"PackagePath": "/Engine/EngineResources",
+					"GroupNames": "None",
+					"AssetName": "Black",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "32x32",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float.MAT_Groups_Float",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Float",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director.MAT_Groups_Director",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Director",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event.MAT_Groups_Event",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Event",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim.MAT_Groups_Anim",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Anim",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade.MAT_Groups_Fade",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Fade",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move.MAT_Groups_Move",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Move",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.MAT_Groups_Slomo",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Slomo",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack.MAT_ColorTrack",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_ColorTrack",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Clamp",
+						"AddressY": "TA_Clamp",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MAT_Groups_Toggle",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MAT_Groups_Toggle.MAT_Groups_Toggle",
+					"PackageName": "/Engine/EditorMaterials/MAT_Groups_Toggle",
+					"PackagePath": "/Engine/EditorMaterials",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Toggle",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.MAT_Groups_AudioMaster",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_AudioMaster",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound.MAT_Groups_Sound",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Sound",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector.MAT_Groups_Vector",
+					"PackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
+					"PackagePath": "/Engine/EditorMaterials/MatineeGroups",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Vector",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/MAT_Groups_Visibility",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/MAT_Groups_Visibility.MAT_Groups_Visibility",
+					"PackageName": "/Engine/EditorMaterials/MAT_Groups_Visibility",
+					"PackagePath": "/Engine/EditorMaterials",
+					"GroupNames": "None",
+					"AssetName": "MAT_Groups_Visibility",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineResources/DefaultTexture",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTexture.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineResources/DefaultTexture.DefaultTexture",
+					"PackageName": "/Engine/EngineResources/DefaultTexture",
+					"PackagePath": "/Engine/EngineResources",
+					"GroupNames": "None",
+					"AssetName": "DefaultTexture",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "128x128",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineResources/DefaultTextureCube",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTextureCube.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineResources/DefaultTextureCube.DefaultTextureCube",
+					"PackageName": "/Engine/EngineResources/DefaultTextureCube",
+					"PackagePath": "/Engine/EngineResources",
+					"GroupNames": "None",
+					"AssetName": "DefaultTextureCube",
+					"AssetClass": "TextureCube",
+					"TagsAndValues":
+					{
+						"Dimensions": "128x128",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSounds/Master",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Master.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSounds/Master.Master",
+					"PackageName": "/Engine/EngineSounds/Master",
+					"PackagePath": "/Engine/EngineSounds",
+					"GroupNames": "None",
+					"AssetName": "Master",
+					"AssetClass": "SoundClass",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSounds/Music",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Music.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSounds/Music.Music",
+					"PackageName": "/Engine/EngineSounds/Music",
+					"PackagePath": "/Engine/EngineSounds",
+					"GroupNames": "None",
+					"AssetName": "Music",
+					"AssetClass": "SoundClass",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSounds/SFX",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/SFX.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSounds/SFX.SFX",
+					"PackageName": "/Engine/EngineSounds/SFX",
+					"PackagePath": "/Engine/EngineSounds",
+					"GroupNames": "None",
+					"AssetName": "SFX",
+					"AssetClass": "SoundClass",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSounds/Normal_Attack",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Normal_Attack.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSounds/Normal_Attack.Normal_Attack",
+					"PackageName": "/Engine/EngineSounds/Normal_Attack",
+					"PackagePath": "/Engine/EngineSounds",
+					"GroupNames": "None",
+					"AssetName": "Normal_Attack",
+					"AssetClass": "SoundClass",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSounds/Special_Attack_PSM",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Special_Attack_PSM.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSounds/Special_Attack_PSM.Special_Attack_PSM",
+					"PackageName": "/Engine/EngineSounds/Special_Attack_PSM",
+					"PackagePath": "/Engine/EngineSounds",
+					"GroupNames": "None",
+					"AssetName": "Special_Attack_PSM",
+					"AssetClass": "SoundClass",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod.Duck_Normal_Attack_MixMod",
+					"PackageName": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod",
+					"PackagePath": "/Engine/EngineSounds",
+					"GroupNames": "None",
+					"AssetName": "Duck_Normal_Attack_MixMod",
+					"AssetClass": "SoundMix",
+					"TagsAndValues":
+					{
+						"bApplyEQ": "False"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSounds/Voice",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Voice.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSounds/Voice.Voice",
+					"PackageName": "/Engine/EngineSounds/Voice",
+					"PackagePath": "/Engine/EngineSounds",
+					"GroupNames": "None",
+					"AssetName": "Voice",
+					"AssetClass": "SoundClass",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMeshes/Cylinder",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMeshes/Cylinder.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMeshes/Cylinder.Cylinder",
+					"PackageName": "/Engine/EngineMeshes/Cylinder",
+					"PackagePath": "/Engine/EngineMeshes",
+					"GroupNames": "None",
+					"AssetName": "Cylinder",
+					"AssetClass": "StaticMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "192",
+						"Vertices": "196",
+						"UVChannels": "1",
+						"Materials": "1",
+						"ApproxSize": "64x24x64",
+						"CollisionPrims": "0",
+						"ResourceSize": "15.90"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultMaterial.DefaultMaterial",
+					"PackageName": "/Engine/EngineMaterials/DefaultMaterial",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineTireTypes/DefaultTireType",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineTireTypes/DefaultTireType.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.30",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineTireTypes/DefaultTireType.DefaultTireType",
+					"PackageName": "/Engine/EngineTireTypes/DefaultTireType",
+					"PackagePath": "/Engine/EngineTireTypes",
+					"GroupNames": "None",
+					"AssetName": "DefaultTireType",
+					"AssetClass": "TireType",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineFonts/Roboto",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/Roboto.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineFonts/Roboto.Roboto",
+					"PackageName": "/Engine/EngineFonts/Roboto",
+					"PackagePath": "/Engine/EngineFonts",
+					"GroupNames": "None",
+					"AssetName": "Roboto",
+					"AssetClass": "Font",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent.Widget3DPassThrough_Translucent",
+					"PackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "Widget3DPassThrough_Translucent",
+					"AssetClass": "MaterialInstanceConstant",
+					"TagsAndValues":
+					{
+						"ResourceSize": "1.13",
+						"Parent": "Material'/Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough",
+					"PackageName": "/Engine/EngineMaterials/Widget3DPassThrough",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "Widget3DPassThrough",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Translucent",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.Widget3DPassThrough_Translucent_OneSided",
+					"PackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "Widget3DPassThrough_Translucent_OneSided",
+					"AssetClass": "MaterialInstanceConstant",
+					"TagsAndValues":
+					{
+						"ResourceSize": "1.13",
+						"Parent": "MaterialInstanceConstant'/Engine/EngineMaterials/Widget3DPassThrough_Translucent.Widget3DPassThrough_Translucent'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque.Widget3DPassThrough_Opaque",
+					"PackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "Widget3DPassThrough_Opaque",
+					"AssetClass": "MaterialInstanceConstant",
+					"TagsAndValues":
+					{
+						"ResourceSize": "1.13",
+						"Parent": "Material'/Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.Widget3DPassThrough_Opaque_OneSided",
+					"PackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "Widget3DPassThrough_Opaque_OneSided",
+					"AssetClass": "MaterialInstanceConstant",
+					"TagsAndValues":
+					{
+						"ResourceSize": "1.13",
+						"Parent": "MaterialInstanceConstant'/Engine/EngineMaterials/Widget3DPassThrough_Opaque.Widget3DPassThrough_Opaque'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Paper2D/MaskedUnlitSpriteMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Paper2D/MaskedUnlitSpriteMaterial.MaskedUnlitSpriteMaterial",
+					"PackageName": "/Paper2D/MaskedUnlitSpriteMaterial",
+					"PackagePath": "/Paper2D",
+					"GroupNames": "None",
+					"AssetName": "MaskedUnlitSpriteMaterial",
+					"AssetClass": "MaterialInstanceConstant",
+					"TagsAndValues":
+					{
+						"ResourceSize": "1.13",
+						"Parent": "Material'/Paper2D/DefaultSpriteMaterial.DefaultSpriteMaterial'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Paper2D/DefaultSpriteMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Paper2D/DefaultSpriteMaterial.DefaultSpriteMaterial",
+					"PackageName": "/Paper2D/DefaultSpriteMaterial",
+					"PackagePath": "/Paper2D",
+					"GroupNames": "None",
+					"AssetName": "DefaultSpriteMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Masked",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Paper2D/DummySpriteTexture",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Paper2D/DummySpriteTexture.DummySpriteTexture",
+					"PackageName": "/Paper2D/DummySpriteTexture",
+					"PackagePath": "/Paper2D",
+					"GroupNames": "None",
+					"AssetName": "DummySpriteTexture",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "128x128",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Paper2D/OpaqueUnlitSpriteMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Paper2D/OpaqueUnlitSpriteMaterial.OpaqueUnlitSpriteMaterial",
+					"PackageName": "/Paper2D/OpaqueUnlitSpriteMaterial",
+					"PackagePath": "/Paper2D",
+					"GroupNames": "None",
+					"AssetName": "OpaqueUnlitSpriteMaterial",
+					"AssetClass": "MaterialInstanceConstant",
+					"TagsAndValues":
+					{
+						"ResourceSize": "1.13",
+						"Parent": "Material'/Paper2D/DefaultSpriteMaterial.DefaultSpriteMaterial'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Paper2D/DefaultPaperTerrainMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Paper2D/DefaultPaperTerrainMaterial.DefaultPaperTerrainMaterial",
+					"PackageName": "/Paper2D/DefaultPaperTerrainMaterial",
+					"PackagePath": "/Paper2D",
+					"GroupNames": "None",
+					"AssetName": "DefaultPaperTerrainMaterial",
+					"AssetClass": "PaperTerrainMaterial",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Paper2D/DummySprite",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Paper2D/DummySprite.DummySprite",
+					"PackageName": "/Paper2D/DummySprite",
+					"PackagePath": "/Paper2D",
+					"GroupNames": "None",
+					"AssetName": "DummySprite",
+					"AssetClass": "PaperSprite",
+					"TagsAndValues":
+					{
+						"SourceUV": "(X=0.000000,Y=0.000000)",
+						"SourceDimension": "(X=128.000000,Y=128.000000)",
+						"SourceTexture": "Texture2D'/Paper2D/DummySpriteTexture.DummySpriteTexture'",
+						"AtlasGroup": "None"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Blueprints/BP_FPSCharacter",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter",
+					"PackageName": "/Game/Blueprints/BP_FPSCharacter",
+					"PackagePath": "/Game/Blueprints",
+					"GroupNames": "None",
+					"AssetName": "BP_FPSCharacter",
+					"AssetClass": "Blueprint",
+					"TagsAndValues":
+					{
+						"ParentClass": "Class'/Script/FPSProject.FPSCharacter'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "BlueprintGeneratedClass'/Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/FPSProject",
+						"BlueprintDescription": "",
+						"ClassFlags": "12845072",
+						"IsDataOnly": "True",
+						"SearchGuid": "BFB17DFB46955AC6730D91B18F407DA6"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Animations/Arms_AnimBP",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Animations/Arms_AnimBP.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Animations/Arms_AnimBP.Arms_AnimBP",
+					"PackageName": "/Game/Animations/Arms_AnimBP",
+					"PackagePath": "/Game/Animations",
+					"GroupNames": "None",
+					"AssetName": "Arms_AnimBP",
+					"AssetClass": "AnimBlueprint",
+					"TagsAndValues":
+					{
+						"TargetSkeleton": "Skeleton'/Game/HeroFPP_Skeleton.HeroFPP_Skeleton'",
+						"ParentClass": "Class'/Script/Engine.AnimInstance'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "AnimBlueprintGeneratedClass'/Game/Animations/Arms_AnimBP.Arms_AnimBP_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/Engine",
+						"BlueprintDescription": "",
+						"ClassFlags": "12845080",
+						"IsDataOnly": "False",
+						"SearchGuid": "A98AE97B4D5CFEC0B6C76E868445C66A"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Animations/FPP_Idle",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Animations/FPP_Idle.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Animations/FPP_Idle.FPP_Idle",
+					"PackageName": "/Game/Animations/FPP_Idle",
+					"PackagePath": "/Game/Animations",
+					"GroupNames": "None",
+					"AssetName": "FPP_Idle",
+					"AssetClass": "AnimSequence",
+					"TagsAndValues":
+					{
+						"ResourceSize": "7.19",
+						"NumFrames": "90",
+						"AdditiveAnimType": "AAT_None",
+						"RetargetSource": "None",
+						"SequenceLength": "2.967033",
+						"Skeleton": "Skeleton'/Game/HeroFPP_Skeleton.HeroFPP_Skeleton'",
+						"PreviewSkeletalMesh": "None",
+						"CurveUIDList": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/HeroFPP_Skeleton",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/HeroFPP_Skeleton.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/HeroFPP_Skeleton.HeroFPP_Skeleton",
+					"PackageName": "/Game/HeroFPP_Skeleton",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "HeroFPP_Skeleton",
+					"AssetClass": "Skeleton",
+					"TagsAndValues":
+					{
+						"PreviewSkeletalMesh": "None",
+						"Rig": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Animations/FPP_JumpEnd",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Animations/FPP_JumpEnd.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Animations/FPP_JumpEnd.FPP_JumpEnd",
+					"PackageName": "/Game/Animations/FPP_JumpEnd",
+					"PackagePath": "/Game/Animations",
+					"GroupNames": "None",
+					"AssetName": "FPP_JumpEnd",
+					"AssetClass": "AnimSequence",
+					"TagsAndValues":
+					{
+						"ResourceSize": "2.97",
+						"NumFrames": "12",
+						"AdditiveAnimType": "AAT_None",
+						"RetargetSource": "None",
+						"SequenceLength": "0.305556",
+						"Skeleton": "Skeleton'/Game/HeroFPP_Skeleton.HeroFPP_Skeleton'",
+						"PreviewSkeletalMesh": "None",
+						"CurveUIDList": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Animations/FPP_JumpLoop",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Animations/FPP_JumpLoop.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Animations/FPP_JumpLoop.FPP_JumpLoop",
+					"PackageName": "/Game/Animations/FPP_JumpLoop",
+					"PackagePath": "/Game/Animations",
+					"GroupNames": "None",
+					"AssetName": "FPP_JumpLoop",
+					"AssetClass": "AnimSequence",
+					"TagsAndValues":
+					{
+						"ResourceSize": "4.91",
+						"NumFrames": "36",
+						"AdditiveAnimType": "AAT_None",
+						"RetargetSource": "None",
+						"SequenceLength": "1.134259",
+						"Skeleton": "Skeleton'/Game/HeroFPP_Skeleton.HeroFPP_Skeleton'",
+						"PreviewSkeletalMesh": "None",
+						"CurveUIDList": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Animations/FPP_JumpStart",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Animations/FPP_JumpStart.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Animations/FPP_JumpStart.FPP_JumpStart",
+					"PackageName": "/Game/Animations/FPP_JumpStart",
+					"PackagePath": "/Game/Animations",
+					"GroupNames": "None",
+					"AssetName": "FPP_JumpStart",
+					"AssetClass": "AnimSequence",
+					"TagsAndValues":
+					{
+						"ResourceSize": "2.98",
+						"NumFrames": "13",
+						"AdditiveAnimType": "AAT_None",
+						"RetargetSource": "None",
+						"SequenceLength": "0.369231",
+						"Skeleton": "Skeleton'/Game/HeroFPP_Skeleton.HeroFPP_Skeleton'",
+						"PreviewSkeletalMesh": "None",
+						"CurveUIDList": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Animations/FPP_Run",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Animations/FPP_Run.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Animations/FPP_Run.FPP_Run",
+					"PackageName": "/Game/Animations/FPP_Run",
+					"PackagePath": "/Game/Animations",
+					"GroupNames": "None",
+					"AssetName": "FPP_Run",
+					"AssetClass": "AnimSequence",
+					"TagsAndValues":
+					{
+						"ResourceSize": "4.36",
+						"NumFrames": "24",
+						"AdditiveAnimType": "AAT_None",
+						"RetargetSource": "None",
+						"SequenceLength": "0.768000",
+						"Skeleton": "Skeleton'/Game/HeroFPP_Skeleton.HeroFPP_Skeleton'",
+						"PreviewSkeletalMesh": "None",
+						"CurveUIDList": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Blueprints/BP_FPSProjectile",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Blueprints/BP_FPSProjectile.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Blueprints/BP_FPSProjectile.BP_FPSProjectile",
+					"PackageName": "/Game/Blueprints/BP_FPSProjectile",
+					"PackagePath": "/Game/Blueprints",
+					"GroupNames": "None",
+					"AssetName": "BP_FPSProjectile",
+					"AssetClass": "Blueprint",
+					"TagsAndValues":
+					{
+						"ParentClass": "Class'/Script/FPSProject.FPSProjectile'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "BlueprintGeneratedClass'/Game/Blueprints/BP_FPSProjectile.BP_FPSProjectile_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/FPSProject",
+						"BlueprintDescription": "",
+						"ClassFlags": "12845072",
+						"IsDataOnly": "False",
+						"SearchGuid": "3BDCAA914B37A57B5F0DE7B2AE3CD8FA"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Sphere",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Sphere.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Sphere.Sphere",
+					"PackageName": "/Game/Sphere",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "Sphere",
+					"AssetClass": "StaticMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "528",
+						"Vertices": "1062",
+						"UVChannels": "2",
+						"Materials": "1",
+						"ApproxSize": "320x320x320",
+						"CollisionPrims": "1",
+						"ResourceSize": "56.09"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Fbx_Default_Material",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Fbx_Default_Material.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Fbx_Default_Material.Fbx_Default_Material",
+					"PackageName": "/Game/Fbx_Default_Material",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "Fbx_Default_Material",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/GenericMale",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/GenericMale.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/GenericMale.GenericMale",
+					"PackageName": "/Game/GenericMale",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "GenericMale",
+					"AssetClass": "SkeletalMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "46440",
+						"Bones": "63",
+						"Skeleton": "Skeleton'/Game/GenericMale_Skeleton.GenericMale_Skeleton'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/lambert2",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/lambert2.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/lambert2.lambert2",
+					"PackageName": "/Game/lambert2",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "lambert2",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/proxy_geo_body_m",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/proxy_geo_body_m.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/proxy_geo_body_m.proxy_geo_body_m",
+					"PackageName": "/Game/proxy_geo_body_m",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "proxy_geo_body_m",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/GenericMale_PhysicsAsset",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/GenericMale_PhysicsAsset.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/GenericMale_PhysicsAsset.GenericMale_PhysicsAsset",
+					"PackageName": "/Game/GenericMale_PhysicsAsset",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "GenericMale_PhysicsAsset",
+					"AssetClass": "PhysicsAsset",
+					"TagsAndValues":
+					{
+						"Bodies": "25",
+						"Constraints": "24"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/GenericMale_Skeleton",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/GenericMale_Skeleton.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/GenericMale_Skeleton.GenericMale_Skeleton",
+					"PackageName": "/Game/GenericMale_Skeleton",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "GenericMale_Skeleton",
+					"AssetClass": "Skeleton",
+					"TagsAndValues":
+					{
+						"PreviewSkeletalMesh": "/Game/GenericMale.GenericMale",
+						"Rig": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/HeroFPP",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/HeroFPP.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/HeroFPP.HeroFPP",
+					"PackageName": "/Game/HeroFPP",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "HeroFPP",
+					"AssetClass": "SkeletalMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "2600",
+						"Bones": "43",
+						"Skeleton": "Skeleton'/Game/HeroFPP_Skeleton.HeroFPP_Skeleton'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/WorldGridMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/WorldGridMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/WorldGridMaterial.WorldGridMaterial",
+					"PackageName": "/Game/WorldGridMaterial",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "WorldGridMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/HeroFPP_PhysicsAsset",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/HeroFPP_PhysicsAsset.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/HeroFPP_PhysicsAsset.HeroFPP_PhysicsAsset",
+					"PackageName": "/Game/HeroFPP_PhysicsAsset",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "HeroFPP_PhysicsAsset",
+					"AssetClass": "PhysicsAsset",
+					"TagsAndValues":
+					{
+						"Bodies": "11",
+						"Constraints": "10"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/crosshair",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/crosshair.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/crosshair.crosshair",
+					"PackageName": "/Game/crosshair",
+					"PackagePath": "/Game",
+					"GroupNames": "None",
+					"AssetName": "crosshair",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "16x16",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/RemoveSurfaceMaterial.RemoveSurfaceMaterial",
+					"PackageName": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "RemoveSurfaceMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineDebugMaterials/DebugMeshMaterial.DebugMeshMaterial",
+					"PackageName": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
+					"PackagePath": "/Engine/EngineDebugMaterials",
+					"GroupNames": "None",
+					"AssetName": "DebugMeshMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Translucent",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/M_InvalidLightmapSettings.M_InvalidLightmapSettings",
+					"PackageName": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "M_InvalidLightmapSettings",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/InvalidLightmapSettings",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings",
+					"PackageName": "/Engine/EngineMaterials/InvalidLightmapSettings",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "InvalidLightmapSettings",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "512x512",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorMaterials/GizmoMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/GizmoMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorMaterials/GizmoMaterial.GizmoMaterial",
+					"PackageName": "/Engine/EditorMaterials/GizmoMaterial",
+					"PackagePath": "/Engine/EditorMaterials",
+					"GroupNames": "None",
+					"AssetName": "GizmoMaterial",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq",
+					"PackageName": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "Good64x64TilingNoiseHighFreq",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "64x64",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Grayscale",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultBokeh",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultBokeh.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultBokeh.DefaultBokeh",
+					"PackageName": "/Engine/EngineMaterials/DefaultBokeh",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultBokeh",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "64x64",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_Bokeh"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/PreintegratedSkinBRDF.PreintegratedSkinBRDF",
+					"PackageName": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "PreintegratedSkinBRDF",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "256x256",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/MiniFont",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/MiniFont.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/MiniFont.MiniFont",
+					"PackageName": "/Engine/EngineMaterials/MiniFont",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "MiniFont",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "512x8",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture",
+					"PackageName": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "WeightMapPlaceholderTexture",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2x2",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultWhiteGrid",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid",
+					"PackageName": "/Engine/EngineMaterials/DefaultWhiteGrid",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultWhiteGrid",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "128x128",
+						"HasAlphaChannel": "True",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineMaterials/DefaultPhysicalMaterial.DefaultPhysicalMaterial",
+					"PackageName": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
+					"PackagePath": "/Engine/EngineMaterials",
+					"GroupNames": "None",
+					"AssetName": "DefaultPhysicalMaterial",
+					"AssetClass": "PhysicalMaterial",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineFonts/RobotoTiny",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/RobotoTiny.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.31",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineFonts/RobotoTiny.RobotoTiny",
+					"PackageName": "/Engine/EngineFonts/RobotoTiny",
+					"PackagePath": "/Engine/EngineFonts",
+					"GroupNames": "None",
+					"AssetName": "RobotoTiny",
+					"AssetClass": "Font",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb",
+					"PackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "VirtualJoystick_Thumb",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "64x64",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "16.00",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_VectorDisplacementmap",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/VirtualJoystick_Background.VirtualJoystick_Background",
+					"PackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "VirtualJoystick_Background",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "256x256",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "256.00",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_VectorDisplacementmap",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter.T_Castle_ThumbstickOutter",
+					"PackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "T_Castle_ThumbstickOutter",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "128x128",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "64.00",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_VectorDisplacementmap",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickInner",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/T_Castle_ThumbstickInner.T_Castle_ThumbstickInner",
+					"PackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickInner",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "T_Castle_ThumbstickInner",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "64x64",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "16.00",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_VectorDisplacementmap",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionStick",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionStick.MobileHUDDirectionStick",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionStick",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDDirectionStick",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "64",
+						"SizeY": "64",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad3",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad3.MobileHUDDirectionPad3",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad3",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDDirectionPad3",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "256",
+						"SizeY": "128",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad2",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad2.MobileHUDDirectionPad2",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad2",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDDirectionPad2",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "256",
+						"SizeY": "128",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad.MobileHUDDirectionPad",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDDirectionPad",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "128",
+						"SizeY": "128",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButtonFire",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButtonFire.MobileHUDButtonFire",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDButtonFire",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDButtonFire",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "64",
+						"SizeY": "64",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton3",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton3.MobileHUDButton3",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDButton3",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDButton3",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "32",
+						"SizeY": "32",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_on",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton2_on.MobileHUDButton2_on",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_on",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDButton2_on",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "128",
+						"SizeY": "32",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_off",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton2_off.MobileHUDButton2_off",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_off",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDButton2_off",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "128",
+						"SizeY": "32",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_on",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton1_on.MobileHUDButton1_on",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_on",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDButton1_on",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "64",
+						"SizeY": "32",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_off",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton1_off.MobileHUDButton1_off",
+					"PackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_off",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "MobileHUDButton1_off",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "64",
+						"SizeY": "32",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/LeftVirtualJoystickOnly",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly",
+					"PackageName": "/Engine/MobileResources/HUD/LeftVirtualJoystickOnly",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "LeftVirtualJoystickOnly",
+					"AssetClass": "TouchInterface",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks",
+					"PackageName": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "DefaultVirtualJoysticks",
+					"AssetClass": "TouchInterface",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/HUD/AnalogHat",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/AnalogHat.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/HUD/AnalogHat.AnalogHat",
+					"PackageName": "/Engine/MobileResources/HUD/AnalogHat",
+					"PackagePath": "/Engine/MobileResources/HUD",
+					"GroupNames": "None",
+					"AssetName": "AnalogHat",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "32",
+						"SizeY": "32",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/T_MobileMenu2",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/T_MobileMenu2.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/T_MobileMenu2.T_MobileMenu2",
+					"PackageName": "/Engine/MobileResources/T_MobileMenu2",
+					"PackagePath": "/Engine/MobileResources",
+					"GroupNames": "None",
+					"AssetName": "T_MobileMenu2",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "512",
+						"SizeY": "512",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MobileResources/T_MobileControls_texture",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/T_MobileControls_texture.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MobileResources/T_MobileControls_texture.T_MobileControls_texture",
+					"PackageName": "/Engine/MobileResources/T_MobileControls_texture",
+					"PackagePath": "/Engine/MobileResources",
+					"GroupNames": "None",
+					"AssetName": "T_MobileControls_texture",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"SizeX": "512",
+						"SizeY": "512",
+						"Format": "PF_DXT5",
+						"AddressX": "TA_Clamp",
+						"AddressY": "TA_Clamp",
+						"SRGB": "True",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_UI",
+						"MipGenSettings": "TMGS_FromTextureGroup"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Maps/FPSMap",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Maps/FPSMap.umap",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Maps/FPSMap.FPSMap",
+					"PackageName": "/Game/Maps/FPSMap",
+					"PackagePath": "/Game/Maps",
+					"GroupNames": "None",
+					"AssetName": "FPSMap",
+					"AssetClass": "World",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/BP_Sky_Sphere",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/BP_Sky_Sphere.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere",
+					"PackageName": "/Engine/EngineSky/BP_Sky_Sphere",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "BP_Sky_Sphere",
+					"AssetClass": "Blueprint",
+					"TagsAndValues":
+					{
+						"ParentClass": "Class'/Script/Engine.Actor'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "BlueprintGeneratedClass'/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/Engine",
+						"BlueprintDescription": "Customizable sky sphere that mimics the effects of atmospheric fog",
+						"ClassFlags": "12845072",
+						"IsDataOnly": "False",
+						"SearchGuid": "35C7D27E437A3CE93D0EE8B0DCBAF4BF"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EditorBlueprintResources/StandardMacros",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EditorBlueprintResources/StandardMacros.StandardMacros",
+					"PackageName": "/Engine/EditorBlueprintResources/StandardMacros",
+					"PackagePath": "/Engine/EditorBlueprintResources",
+					"GroupNames": "None",
+					"AssetName": "StandardMacros",
+					"AssetClass": "Blueprint",
+					"TagsAndValues":
+					{
+						"ParentClass": "Class'/Script/CoreUObject.Object'",
+						"BlueprintType": "BPTYPE_MacroLibrary",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "BlueprintGeneratedClass'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/CoreUObject",
+						"BlueprintDescription": "",
+						"ClassFlags": "4456977",
+						"IsDataOnly": "False",
+						"SearchGuid": "8E3DAF5948CD00194E21059703D33CA1"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/C_Sky_Cloud_Color",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/C_Sky_Cloud_Color.C_Sky_Cloud_Color",
+					"PackageName": "/Engine/EngineSky/C_Sky_Cloud_Color",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "C_Sky_Cloud_Color",
+					"AssetClass": "CurveLinearColor",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/C_Sky_Horizon_Color",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color",
+					"PackageName": "/Engine/EngineSky/C_Sky_Horizon_Color",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "C_Sky_Horizon_Color",
+					"AssetClass": "CurveLinearColor",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/C_Sky_Zenith_Color",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/C_Sky_Zenith_Color.C_Sky_Zenith_Color",
+					"PackageName": "/Engine/EngineSky/C_Sky_Zenith_Color",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "C_Sky_Zenith_Color",
+					"AssetClass": "CurveLinearColor",
+					"TagsAndValues":
+					{
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.32",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/M_Sky_Panning_Clouds2.M_Sky_Panning_Clouds2",
+					"PackageName": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "M_Sky_Panning_Clouds2",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "1.27",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_Unlit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/T_Sky_Blue",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Blue.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.33",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/T_Sky_Blue.T_Sky_Blue",
+					"PackageName": "/Engine/EngineSky/T_Sky_Blue",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "T_Sky_Blue",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "False",
+						"ResourceSize": "2.68",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Clamp",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_Skybox"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/T_Sky_Clouds_M",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.33",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M",
+					"PackageName": "/Engine/EngineSky/T_Sky_Clouds_M",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "T_Sky_Clouds_M",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x1024",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "10.67",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Grayscale",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_Skybox"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/T_Sky_Stars",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Stars.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.33",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/T_Sky_Stars.T_Sky_Stars",
+					"PackageName": "/Engine/EngineSky/T_Sky_Stars",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "T_Sky_Stars",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "512x512",
+						"HasAlphaChannel": "False",
+						"ResourceSize": "2.68",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Linear",
+						"LODGroup": "TEXTUREGROUP_Skybox"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/EngineSky/SM_SkySphere",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/SM_SkySphere.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.33",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/EngineSky/SM_SkySphere.SM_SkySphere",
+					"PackageName": "/Engine/EngineSky/SM_SkySphere",
+					"PackagePath": "/Engine/EngineSky",
+					"GroupNames": "None",
+					"AssetName": "SM_SkySphere",
+					"AssetClass": "StaticMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "3968",
+						"Vertices": "6013",
+						"UVChannels": "2",
+						"Materials": "1",
+						"ApproxSize": "8192x8192x8192",
+						"CollisionPrims": "0",
+						"ResourceSize": "352.86"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Engine/MapTemplates/SM_Template_Map_Floor",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
+			"CookedPackageTimeStamp": "2015.01.19-05.01.33",
+			"AssetData": [
+				{
+					"ObjectPath": "/Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor",
+					"PackageName": "/Engine/MapTemplates/SM_Template_Map_Floor",
+					"PackagePath": "/Engine/MapTemplates",
+					"GroupNames": "None",
+					"AssetName": "SM_Template_Map_Floor",
+					"AssetClass": "StaticMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "96",
+						"Vertices": "90",
+						"UVChannels": "2",
+						"Materials": "1",
+						"ApproxSize": "1000x1000x50",
+						"CollisionPrims": "1",
+						"ResourceSize": "9.22"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Animations/NewAnimBlueprint",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Animations/NewAnimBlueprint.uasset",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Blueprints/NewBlueprint",
+			"CookedPackageName": "C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Saved/Cooked/WindowsNoEditor/FPSProject/Content/Blueprints/NewBlueprint.uasset",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"AssetData": []
+		}
+	]
+}

@@ -1,0 +1,23 @@
+﻿Build started 2015-01-18 9:01:08 PM.
+     1>Project "C:\Users\sangmoon\Documents\Unreal Projects\FPSProject\Intermediate\ProjectFiles\FPSProject.vcxproj" on node 2 (Build target(s)).
+     1>Build:
+         "C:\Program Files\Epic Games\4.6\Engine\Build\BatchFiles\Build.bat" FPSProjectEditor Win64 Development "C:\Users\sangmoon\Documents\Unreal Projects\FPSProject\FPSProject.uproject" -rocket
+         Parsing headers for FPSProjectEditor
+         Reflection code generated for FPSProjectEditor
+         Performing 4 actions (4 in parallel)
+         FPSProject.generated.cpp
+         FPSGameMode.cpp
+         FPSHUD.cpp
+     1>c:\users\sangmoon\documents\unreal projects\fpsproject\source\fpsproject\FPSHUD.h(18): warning C4996: OVERRIDE macro is deprecated. Please use override keyword instead.
+     1>c:\users\sangmoon\documents\unreal projects\fpsproject\source\fpsproject\FPSHUD.h(18): warning C4996: OVERRIDE macro is deprecated. Please use override keyword instead.
+     1>C:\Users\sangmoon\Documents\Unreal Projects\FPSProject\Source\FPSProject\FPSHUD.h(18): warning C4996: OVERRIDE macro is deprecated. Please use override keyword instead.
+         [4/4] Link UE4Editor-FPSProject.dll
+            Creating library C:\Users\sangmoon\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\UE4Editor-FPSProject.lib and object C:\Users\sangmoon\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\UE4Editor-FPSProject.exp
+         -------- End Detailed Actions Stats -----------------------------------------------------------
+         Cumulative action seconds (4 processors): 0.00 building projects, 10.60 compiling, 0.00 creating app bundles, 0.00 generating debug info, 1.24 linking, 0.00 other
+         UBT execution time: 17.62 seconds
+     1>Done Building Project "C:\Users\sangmoon\Documents\Unreal Projects\FPSProject\Intermediate\ProjectFiles\FPSProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.88

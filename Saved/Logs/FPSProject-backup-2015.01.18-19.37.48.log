@@ -1,0 +1,25 @@
+﻿Log file open, 01/18/15 19:36:56
+LogInit:Display: Running engine for game: FPSProject
+LogInit:Warning: Incompatible or missing module: UE4Editor-FPSProject.dll
+Running C:/Program Files/Epic Games/4.6/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject Development Win64 -project="C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/FPSProject.uproject" -rocket -editorrecompile -progress
+Parsing headers for FPSProjectEditor
+C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Source/FPSProject/FPSProjectile.h(23) : Error: In FPSProjectile: BlueprintReadOnly should not be used on private members
+Error: Failed to generate code for FPSProjectEditor - error code: OtherCompilationError (2)
+UnrealHeaderTool failed for target 'FPSProjectEditor' (platform: Win64, module info: C:\Users\sangmoon\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\UnrealHeaderTool.manifest).
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (14)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+LogModuleManager: Shutting down and abandoning module Landscape (11)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+LogModuleManager: Shutting down and abandoning module Renderer (7)
+LogModuleManager: Shutting down and abandoning module Engine (6)
+LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+LogModuleManager: Shutting down and abandoning module PakFile (1)
+LogExit: Exiting.
+Log file closed, 01/18/15 19:37:15

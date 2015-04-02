@@ -1,0 +1,176 @@
+﻿Log file open, 04/02/15 00:15:58
+LogInit: Version: 4.6.1-2386410+++depot+UE4-Releases+4.6
+LogInit: API Version: 2369412
+LogInit: Compiled (64-bit): Dec 11 2014 21:33:04
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.6
+LogInit: Command line: 
+LogInit: Base directory: C:/Users/sangmoon/Documents/Unreal Projects/FPSProject/Binaries/WindowsNoEditor/FPSProject/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.04.02-04.15.58:173][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.04.02-04.15.58:217][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.04.02-04.15.58:241][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.04.02-04.15.58:260][  0]LogInit: Object subsystem initialized
+[2015.04.02-04.15.58:289][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.04.02-04.15.58:290][  0]LogConsoleResponse:Warning:   Found in ini file '../../../FPSProject/Saved/Config/WindowsNoEditor/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.02-04.15.58:290][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.04.02-04.15.58:290][  0]LogConsoleResponse:Warning:   Found in ini file '../../../FPSProject/Saved/Config/WindowsNoEditor/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.02-04.15.58:300][  0]LogConsoleManager:Warning: Console variable 'r.MSAA.CompositingSampleCount' wasn't set (Priority ProjectSetting < Scalability)
+[2015.04.02-04.15.58:306][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2015.04.02-04.15.58:306][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2015.04.02-04.15.58:343][  0]LogInit: Computer: HWANG
+[2015.04.02-04.15.58:343][  0]LogInit: User: sangmoon
+[2015.04.02-04.15.58:343][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.04.02-04.15.58:343][  0]LogInit: High frequency timer resolution =2.923053 MHz
+[2015.04.02-04.15.58:344][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx) Virtual=131072.0GB
+[2015.04.02-04.15.58:344][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2015.04.02-04.15.58:344][  0]LogMemory: Process Physical Memory: 27.55 MB used, 27.55 MB peak
+[2015.04.02-04.15.58:344][  0]LogMemory: Process Virtual Memory: 18.11 MB used, 18.18 MB peak
+[2015.04.02-04.15.58:344][  0]LogMemory: Physical Memory: 3723.05 MB used, 8147.34 MB total
+[2015.04.02-04.15.58:344][  0]LogMemory: Virtual Memory: 188.60 MB used, 134217728.00 MB total
+[2015.04.02-04.15.58:445][  0]LogD3D11RHI: Found D3D11 adapter 0: AMD Radeon HD 8470 (Feature Level 11_0)
+[2015.04.02-04.15.58:445][  0]LogD3D11RHI: Adapter has 1011MB of dedicated video memory, 0MB of dedicated system memory, and 3840MB of shared system memory, 1 output[s]
+[2015.04.02-04.15.58:446][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.04.02-04.15.58:446][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.04.02-04.15.58:446][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.04.02-04.15.58:477][  0]LogRHI: Texture pool is 708 MB (70% of 1011 MB)
+[2015.04.02-04.15.58:484][  0]LogD3D11RHI: Async texture creation disabled: no driver support
+[2015.04.02-04.15.59:166][  0]LogTextLocalizationManager: The requested culture ('ko_KR') has no localization data; falling back to 'en' for localization and internationalization data.
+[2015.04.02-04.15.59:265][  0]LogContentStreaming: Texture pool size is 1000.000000MB
+[2015.04.02-04.16.00:074][  0]LogCollisionProfile:Warning: Profile (UI) - Custom Channel Name = 'Weapon' hasn't been found
+[2015.04.02-04.16.00:903][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.04.02-04.16.01:483][  0]LogWindowsMoviePlayer: Unable to load movie: ../../../FPSProject/Content/Movies/Default_Startup.mp4
+[2015.04.02-04.16.01:709][  0]LogObj: 19915 objects as part of root set at end of initial load.
+[2015.04.02-04.16.01:709][  0]LogUObjectAllocator: 4029784 out of 0 bytes used by permanent object pool.
+[2015.04.02-04.16.01:740][  0]LogEngine: Initializing Engine...
+[2015.04.02-04.16.03:753][  0]LogHMD:Warning: No Oculus HMD detected! Is Oculus Run-Time installed and service is running?
+[2015.04.02-04.16.03:764][  0]LogHMD: Oculus shutdown.
+[2015.04.02-04.16.04:092][  0]LogInit: XAudio2 using 'Speakers / Headphones(IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.04.02-04.16.04:309][  0]LogInit: FAudioDevice initialized.
+[2015.04.02-04.16.04:309][  0]LogInit: Texture streaming: Enabled
+[2015.04.02-04.16.04:326][  0]LogConsoleManager:Warning: Console variable 'r.VSync' wasn't set (Priority Code < GameSetting)
+[2015.04.02-04.16.04:355][  0]LogNet: Browse: /Game/Maps/FPSMap?Name=Player
+[2015.04.02-04.16.04:358][  0]LogLoad: LoadMap: /Game/Maps/FPSMap?Name=Player
+[2015.04.02-04.16.04:426][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2015.04.02-04.16.04:426][  0]LogMemory: Process Physical Memory: 96.78 MB used, 100.21 MB peak
+[2015.04.02-04.16.04:426][  0]LogMemory: Process Virtual Memory: 67.52 MB used, 76.37 MB peak
+[2015.04.02-04.16.04:426][  0]LogMemory: Physical Memory: 3787.15 MB used, 8147.34 MB total
+[2015.04.02-04.16.04:426][  0]LogMemory: Virtual Memory: 358.73 MB used, 134217728.00 MB total
+[2015.04.02-04.16.04:426][  0]LogMemory: 
+[2015.04.02-04.16.04:427][  0]LogMemory: Allocator Stats for binned:
+[2015.04.02-04.16.04:427][  0]LogMemory: Current Memory 36.34 MB used, plus 3.72 MB waste
+[2015.04.02-04.16.04:427][  0]LogMemory: Peak Memory 48.18 MB used, plus 3.00 MB waste
+[2015.04.02-04.16.04:427][  0]LogMemory: Current OS Memory 40.06 MB, peak 51.18 MB
+[2015.04.02-04.16.04:427][  0]LogMemory: Current Waste 0.59 MB, peak 1.03 MB
+[2015.04.02-04.16.04:427][  0]LogMemory: Current Used 36.35 MB, peak 48.18 MB
+[2015.04.02-04.16.04:427][  0]LogMemory: Current Slack 3.13 MB
+[2015.04.02-04.16.04:427][  0]LogMemory: Allocs       107145 Current /  1146971 Total
+[2015.04.02-04.16.04:427][  0]LogMemory: 
+[2015.04.02-04.16.04:427][  0]LogMemory: Block Size Num Pools Max Pools Cur Allocs Total Allocs Min Req Max Req Mem Used Mem Slack Mem Waste Efficiency
+[2015.04.02-04.16.04:427][  0]LogMemory: ---------- --------- --------- ---------- ------------ ------- ------- -------- --------- --------- ----------
+[2015.04.02-04.16.04:427][  0]LogMemory:          8         0         0          0            0       8       0       0K        0K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:         16         6         6      18935       131290      16      16     295K       89K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:         32        12        12      22339        83919      32      32     698K       70K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:         48         7         7       8763        49576      48      48     410K       38K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:         64        12        12      12159        56302      64      64     759K        9K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:         80         4         4       2810        41116      80      80     219K       37K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:         96         5         5       2798        42233      96      96     262K       58K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:        112         3         3       1375        24560     112     112     150K       42K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:        128        30        30      15187        49831     128     128    1898K       22K        0K    100.00%
+[2015.04.02-04.16.04:427][  0]LogMemory:        160         8        11       2792       105565     144     160     436K       76K       17K     96.68%
+[2015.04.02-04.16.04:427][  0]LogMemory:        192        13        13       4376       176385     176     192     820K       12K       30K     96.39%
+[2015.04.02-04.16.04:427][  0]LogMemory:        224         4         4        879       165767     208     224     192K       64K        7K     97.27%
+[2015.04.02-04.16.04:427][  0]LogMemory:        256         5         5       1152        80023     240     256     288K       32K       10K     96.88%
+[2015.04.02-04.16.04:427][  0]LogMemory:        288        20        31       4309        58890     272     288    1211K       66K       50K     96.09%
+[2015.04.02-04.16.04:427][  0]LogMemory:        320         4         4        679        20181     304     320     212K       43K        6K     97.66%
+[2015.04.02-04.16.04:427][  0]LogMemory:        384        11        11       1708        18770     336     384     640K       62K       64K     90.91%
+[2015.04.02-04.16.04:427][  0]LogMemory:        448        11        11       1591         6837     400     448     696K        7K       45K     93.61%
+[2015.04.02-04.16.04:427][  0]LogMemory:        512         9         9       1065         7188     464     512     532K       44K       29K     94.97%
+[2015.04.02-04.16.04:427][  0]LogMemory:        576         3         3        295         1765     528     576     165K       26K       10K     94.79%
+[2015.04.02-04.16.04:427][  0]LogMemory:        640         9         9        602         1130     592     640     376K      198K       10K     98.26%
+[2015.04.02-04.16.04:427][  0]LogMemory:        704        14        16        887         2048     656     704     609K      287K       15K     98.33%
+[2015.04.02-04.16.04:427][  0]LogMemory:        768         7         7        382         3205     720     768     286K      161K        7K     98.44%
+[2015.04.02-04.16.04:427][  0]LogMemory:        896         3         3        191          831     784     896     167K       25K        8K     95.83%
+[2015.04.02-04.16.04:427][  0]LogMemory:       1024         2         3        109          463     912    1024     109K       19K        2K     98.44%
+[2015.04.02-04.16.04:427][  0]LogMemory:       1168         3         3        111          435    1040    1168     126K       66K        7K     96.35%
+[2015.04.02-04.16.04:427][  0]LogMemory:       1360         7         7        246         3679    1184    1360     326K      121K       20K     95.54%
+[2015.04.02-04.16.04:427][  0]LogMemory:       1632         7         7        245          690    1376    1632     390K       57K       26K     94.20%
+[2015.04.02-04.16.04:427][  0]LogMemory:       2048         9         9        147          795    1648    2048     294K      282K       32K     94.44%
+[2015.04.02-04.16.04:427][  0]LogMemory:       2336         5         5        112         3610    2064    2336     255K       65K       27K     91.56%
+[2015.04.02-04.16.04:427][  0]LogMemory:       2720         5         5         95          542    2352    2720     252K       67K       12K     96.25%
+[2015.04.02-04.16.04:427][  0]LogMemory:       3264        11        11        156         3067    2736    3264     497K      205K       28K     96.02%
+[2015.04.02-04.16.04:427][  0]LogMemory:       4096        12        14        152          757    3280    4096     608K      160K       49K     93.62%
+[2015.04.02-04.16.04:427][  0]LogMemory:       4672         8         9         73         1791    4112    4672     333K      178K       11K     97.85%
+[2015.04.02-04.16.04:427][  0]LogMemory:       5456        10        13         91          379    4688    5456     484K      156K       41K     93.59%
+[2015.04.02-04.16.04:427][  0]LogMemory:       6544        12        14         90          317    5472    6544     575K      192K       50K     93.49%
+[2015.04.02-04.16.04:427][  0]LogMemory:       8192         6         7         45         1644    6560    8192     360K       24K       47K     87.76%
+[2015.04.02-04.16.04:427][  0]LogMemory:       9360         5         5         30           96    8208    9360     274K       46K       14K     95.63%
+[2015.04.02-04.16.04:427][  0]LogMemory:      10912         6         6         30          165    9376   10848     319K       65K       32K     91.67%
+[2015.04.02-04.16.04:427][  0]LogMemory:      13104         3         4         15           54   10976   13056     191K        1K       11K     94.27%
+[2015.04.02-04.16.04:427][  0]LogMemory:      16384         6         8         21          111   13120   16384     336K       48K       25K     93.49%
+[2015.04.02-04.16.04:427][  0]LogMemory:      21840        11        11         30          100   16400   21456     639K       65K      116K     83.52%
+[2015.04.02-04.16.04:427][  0]LogMemory:      32768         4         6          7           67   21904   32640     224K       32K       47K     81.64%
+[2015.04.02-04.16.04:427][  0]LogMemory: 
+[2015.04.02-04.16.04:427][  0]LogMemory: 21248K allocated in pools (with 3317K slack and 905K waste). Efficiency 95.74%
+[2015.04.02-04.16.04:427][  0]LogMemory: Allocations 107080 Current / 1146175 Total (in 332 pools)
+[2015.04.02-04.16.04:427][  0]LogMemory: 
+[2015.04.02-04.16.04:666][  0]LogWorld: Game class is 'FPSGameMode'
+[2015.04.02-04.16.04:717][  0]LogAIModule: Creating AISystem for world FPSMap
+[2015.04.02-04.16.04:792][  0]LogWorld: Bringing World /Game/Maps/FPSMap.FPSMap up for play (max tick rate 0) at 2015.04.02-00.16.04
+[2015.04.02-04.16.04:815][  0]LogWorld: Bringing up level for play took: 0.098510
+[2015.04.02-04.16.04:981][  0]LogInit:Display: Game Engine Initialized.
+[2015.04.02-04.16.05:182][  0]LogLoad: Full Startup: 10.22 seconds (BP compile: 0.00 seconds)
+[2015.04.02-04.16.05:288][  1]LogRenderer:Warning: Reallocating scene render targets to support 1600x904.
+[2015.04.02-04.16.18:356][146]LogEngine: All Windows Closed
+[2015.04.02-04.16.18:356][146]LogWindows: FPlatformMisc::RequestExit(0)
+[2015.04.02-04.16.18:600][147]LogExit: Preparing to exit.
+[2015.04.02-04.16.18:738][147]LogExit: Game engine shut down
+[2015.04.02-04.16.18:738][147]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000B8C248B7C0
+[2015.04.02-04.16.18:747][147]LogExit: Object subsystem successfully closed.
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module AutomationWorker (47)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module CharacterAI (46)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module AIModule (45)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (44)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (43)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module HTTP (42)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module AnalyticsET (41)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module Analytics (40)
+[2015.04.02-04.16.18:814][147]LogModuleManager: Shutting down and abandoning module ProfilerService (39)
+[2015.04.02-04.16.18:989][147]LogModuleManager: Shutting down and abandoning module TaskGraph (38)
+[2015.04.02-04.16.19:004][147]LogModuleManager: Shutting down and abandoning module SlateRemote (37)
+[2015.04.02-04.16.19:004][147]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (36)
+[2015.04.02-04.16.19:004][147]LogModuleManager: Shutting down and abandoning module CableComponent (35)
+[2015.04.02-04.16.19:004][147]LogModuleManager: Shutting down and abandoning module FPSProject (34)
+[2015.04.02-04.16.19:004][147]LogModuleManager: Shutting down and abandoning module ScriptPlugin (33)
+[2015.04.02-04.16.19:006][147]LogModuleManager: Shutting down and abandoning module UdpMessaging (32)
+[2015.04.02-04.16.19:006][147]LogModuleManager: Shutting down and abandoning module Paper2D (31)
+[2015.04.02-04.16.19:006][147]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (30)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module Media (29)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module WmfMedia (28)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module UMG (27)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module Slate (26)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module SessionServices (25)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module Messaging (24)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (23)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module XAudio2 (22)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module Networking (20)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module Core (19)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module InputCore (18)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module ImageWrapper (17)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module OculusRift (14)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (13)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.04.02-04.16.19:007][147]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.04.02-04.16.19:008][147]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.04.02-04.16.19:008][147]LogExit: Exiting.
+[2015.04.02-04.16.19:009][147]Log file closed, 04/02/15 00:16:19
